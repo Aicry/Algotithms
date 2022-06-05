@@ -1,0 +1,20 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "cmake.configureOnOpen": false,
+    "files.encoding": "utf8",
+    "editor.formatOnType": true,
+    "files.autoSave": "onFocusChange",
+    "code-runner.runInTerminal": true,
+
+"[cpp]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools"
+},
+"code-runner.clearPreviousOutput": true,
+"code-runner.saveFileBeforeRun": true, 
+"files.exclude": {
+    "**/.exe": true,
+  
+}
+
+
+ }
